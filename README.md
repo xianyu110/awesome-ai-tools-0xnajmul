@@ -101,6 +101,7 @@
 |---|---|---|
 | Midjourney | https://midjourney.com | Leading AI art generator known for high-quality, artistic imagery via Discord and web. |
 | DALL·E 3 | https://openai.com/dall-e-3 | OpenAI's text-to-image model integrated into ChatGPT. |
+| GPT Image 2 | https://gptimage2.asia/ | AI image generator and editor for marketing visuals, ecommerce assets, social posts, and branded content. |
 | Stable Diffusion | https://stability.ai | Open-source text-to-image model widely used for custom AI art pipelines. |
 | Adobe Firefly | https://firefly.adobe.com | Adobe's generative AI for images, integrated into Photoshop and Creative Cloud. |
 | Leonardo AI | https://leonardo.ai | AI platform for generating game assets, art, and design images. |
